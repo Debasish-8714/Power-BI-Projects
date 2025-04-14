@@ -9,7 +9,7 @@ Each project folder includes a `.pbix` file, visuals, and a brief explanation of
 
 # Featured Projects
 
--  **Coffee Shop Sales**  
+-  **Super Store Sales**  
   Analyze monthly sales, MoM trends, and quantity sold  
   👉 [Explore](https://github.com/Debasish-8714/Power-BI-Projects/tree/main/Super%20Store%20Sales)
 
