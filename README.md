@@ -17,15 +17,14 @@ Each project folder includes a `.pbix` file, visuals, and a brief explanation of
   Track work preferences, presence %, and team scheduling  
   👉 [Explore](https://github.com/Debasish-8714/Power-BI-Projects/tree/main/HR%20Analytics)
 
-
 ---
 
 # Tools & Skills
 
 - Power BI Desktop  
 - DAX & Power Query  
-- SQL (for data cleaning)  
-
+- Excel (Data cleaning & analysis)  
+- MySQL (For preprocessing)  
 
 ---
 
