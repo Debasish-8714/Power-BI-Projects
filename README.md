@@ -15,7 +15,7 @@ Each project folder includes a `.pbix` file, visuals, and a brief explanation of
 
 -  **HR Analytics**  
   Track work preferences, presence %, and team scheduling  
-  👉 [Explore](./hr-analytics)
+  👉 [Explore](https://github.com/Debasish-8714/Power-BI-Projects/tree/main/HR%20Analytics)
 
 
 ---
