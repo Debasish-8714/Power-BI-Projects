@@ -11,7 +11,7 @@ Each project folder includes a `.pbix` file, visuals, and a brief explanation of
 
 -  **Coffee Shop Sales**  
   Analyze monthly sales, MoM trends, and quantity sold  
-  👉 [Explore](./coffee-shop-sales)
+  👉 [Explore](https://github.com/Debasish-8714/Power-BI-Projects/tree/main/Super%20Store%20Sales)
 
 -  **HR Analytics**  
   Track work preferences, presence %, and team scheduling  
