@@ -1,4 +1,4 @@
-# HR Insights Dashboard – Power BI Project
+# HR Insights Dashboard
 
 In today's hybrid world, understanding **how and where people work** is more important than ever. This Power BI project dives deep into **employee presence patterns**, work preferences, and leave behaviors to help HR and leadership teams make smarter, people-first decisions.
 
