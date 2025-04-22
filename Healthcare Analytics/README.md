@@ -47,5 +47,7 @@ Final Thoughts
 This dashboard proves how healthcare institutions can turn complex financial and operational data into actionable insights. By focusing on both performance and patient experience, it supports smarter decisions that benefit both the organization and the people it serves.
 
 Want to Collaborate?
-Let’s connect on LinkedIn or reach out at debashis1076@gmail.com.
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/debashis-dash/) or reach out at debashis1076@gmail.com
+
 
