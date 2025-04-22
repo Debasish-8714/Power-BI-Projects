@@ -17,6 +17,10 @@ Each project folder includes a `.pbix` file, visuals, and a brief explanation of
   Track work preferences, presence %, and team scheduling  
   👉 [Explore](https://github.com/Debasish-8714/Power-BI-Projects/tree/main/HR%20Analytics)
 
+-  **Healthcare Analytics**  
+  Evaluate financial performance, patient behavior, and department-level KPIs  
+  👉 [Explore](https://github.com/Debasish-8714/Power-BI-Projects/tree/main/Healthcare%20Analytics)
+
 ---
 
 # Tools & Skills
